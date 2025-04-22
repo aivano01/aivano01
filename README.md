@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on automating cloud infrastructure with Terraform and managing scalable environments on AWS<br>🌱 I’m currently learning Kubernetes and diving deeper into AWS security best practices<br>⚡ Automation & Scripting: Python, Bash<br>⚙️ CI/CD: GitHub Actions, GoCD, Jenkins, GitLab CI<br>💻 OS & Systems: Linux (Debian, Ubuntu,  CentOS), Unix (FreeBSD)
+🔭 I’m currently working on automating cloud infrastructure with Terraform and managing scalable environments on AWS<br>🌱 I’m currently learning Kubernetes and diving deeper into AWS best practices<br>⚡ Automation & Scripting: Python, Bash<br>⚙️ CI/CD: GitHub Actions, GoCD, Jenkins, GitLab CI<br>💻 OS & Systems: Linux (Debian, Ubuntu,  CentOS), Unix (FreeBSD)
 
 
 ## 🌐 Socials:
